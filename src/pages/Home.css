@@ -1,0 +1,41 @@
+.home-container {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+}
+
+h1 {
+    color: #000000;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.exchange-rates {
+    background: #121111;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.convert-btn {
+    background: #0072ff;
+    color: rgb(3, 2, 2);
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 100%;
+}
+
+.convert-btn:hover {
+    background: #005bb5;
+}
